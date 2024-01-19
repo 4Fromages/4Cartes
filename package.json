@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "4cartes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4Fromages/4Cartes.git"
+  },
+  "author": "TintinLeGrand, clemonttt1, lenisrl & teumteum_",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4Fromages/4Cartes/issues"
+  },
+  "homepage": "https://github.com/4Fromages/4Cartes#readme",
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
+  }
+}
